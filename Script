@@ -1,5 +1,5 @@
 --// LocalScript (for testing only)
 local player = game.Players.LocalPlayer
 
-task.wait(3)
+task.wait(1)
 player:Kick("ahem. this script is CLOSED because alot of people was just trolling")
